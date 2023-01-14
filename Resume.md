@@ -24,7 +24,7 @@ acquirement of skills and expertise on several different platforms in a short ti
 - Conducted the training of newer team members in the time period of a week to quickly onboard new team
 members and strengthen existing skills.
 
-## CoMotion Makerspace Padelford (Seatle, Washington)
+## CoMotion Makerspace Padelford (Seattle, Washington)
 *A small lab and "makerspace" in the Padelford Building at the University of Washington with a mission
 to educate students on the practices of 3D Printing, CNC Milling, Soldering and other technical skills*
 
